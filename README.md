@@ -20,9 +20,9 @@ This project is a simplified front end clone of Netflix. It was created with Rea
 
 # User Experience :
 
-- User can the see upcoming and trending movies. Data updated on a weekly basis
+- Users can the see upcoming and trending movies. Data updated on a weekly basis
 
-- User can click on a movie and the trailer of the series/movie would be shown.
+- Users can click on a movie and the trailer of the series/movie would be shown.
 
 - The webpage adapts to any screen size.
 
