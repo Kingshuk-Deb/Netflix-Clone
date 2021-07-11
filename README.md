@@ -25,3 +25,6 @@ This project is a simplified front end clone of Netflix. It was created with Rea
 - User can click on a movie and the trailer of the series/movie would be shown.
 
 - The webpage adapts to any screen size.
+
+
+#Deployment - https://netflix-movie-recoms.web.app/
