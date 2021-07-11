@@ -27,4 +27,6 @@ This project is a simplified front end clone of Netflix. It was created with Rea
 - The webpage adapts to any screen size.
 
 
-# Deployment - https://netflix-movie-recoms.web.app/
+# Deployment :- 
+
+https://netflix-movie-recoms.web.app/
