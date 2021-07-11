@@ -18,7 +18,7 @@ This project is a simplified front end clone of Netflix. It was created with Rea
 
 
 
-# User Stories :
+# User Experience :
 
 - User can the see upcoming and trending movies. Data updated on a weekly basis
 
