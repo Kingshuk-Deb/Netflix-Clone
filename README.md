@@ -4,15 +4,9 @@ This project is a simplified front end clone of Netflix. It was created with Rea
 
 # Tools used :
 
-- Webpack
-
-- Flexbox
-
-- Grid
-
 - Axios
 
-- Redux & React
+- React
 
 - Firebase
 
